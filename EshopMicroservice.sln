@@ -12,10 +12,13 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Shared", "Shared", "{D5D72157-72DB-45A8-94FC-D341584CB5FC}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SharedLibrary", "Shared\SharedLibrary\SharedLibrary.csproj", "{4D8CE49C-AB63-467C-B082-1C1E8ED89061}"
+<<<<<<< Updated upstream
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "IdentityServer", "IdentityServer", "{14CB0A5B-0314-46CB-A7AD-4896511F5DDF}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ServiceIdentityServer", "IdentityServer\ServiceIdentityServer\ServiceIdentityServer.csproj", "{62418FEB-33A0-4340-8A13-93B856E36F8C}"
+=======
+>>>>>>> Stashed changes
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
