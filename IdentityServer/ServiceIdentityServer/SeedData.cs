@@ -30,6 +30,8 @@ namespace ServiceIdentityServer
 
             using (var serviceProvider = services.BuildServiceProvider())
             {
+
+
                 using (var scope = serviceProvider.GetRequiredService<IServiceScopeFactory>().CreateScope())
                 {
                     var context = scope.ServiceProvider.GetService<ApplicationDbContext>();
